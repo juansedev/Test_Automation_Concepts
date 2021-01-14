@@ -1,6 +1,6 @@
 package Model;
 
-public class Square implements iFigure{
+public class Square extends Figure{
 
     private int side;
 

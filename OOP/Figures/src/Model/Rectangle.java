@@ -1,6 +1,6 @@
 package Model;
 
-public class Rectangle implements iFigure {
+public class Rectangle extends Figure {
 
     private int sideA, sideB;
 
